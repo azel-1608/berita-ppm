@@ -51,7 +51,7 @@ class _NewsPageState extends State<NewsPage> {
   RefreshController refreshC = RefreshController();
   List<Article> result = [];
 
-  String API_KEY = "1edb916b4699496faf14f04ffd49fc52";
+  String API_KEY = "8d4f9669343d4f95a745c557a8b10acb";
 
   late String selectedCategory;
   late String category;
